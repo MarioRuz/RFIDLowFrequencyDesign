@@ -1,5 +1,7 @@
 # RFIDLowFrequencyDesign
-This code is provided as supplementary material to the submitted paper *"Accident prevention in agricultural machinery using radiofrequency technology: A prototype application to olive net collectors".* The code allows calculating the number of loops for a given planar geometry and a specific inductance value. The inductance is a key parameter of inductive coupling antennas. 
+This code is provided as supplementary material for the submitted paper "Accident Prevention in Agricultural Machinery Using Radiofrequency Technology: A Prototype Application to Olive Net Collectors." The code enables the calculation of the number of loops for a given planar geometry and a specific inductance value.
+
+Inductance is a key parameter in inductive coupling antennas, particularly for achieving resonance and ensuring proper performance in tag detection. Please note that the presence of metals near the antenna can alter the total inductance value, potentially detuning it.
 
 ![](https://github.com/MarioRuz/RFIDLowFrequencyDesign/blob/main/RoboticTestingExample.gif)
 
