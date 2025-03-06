@@ -10,7 +10,7 @@ function [base_x, base_y, base_z, wobj_x, wobj_y, wobj_z] = importerFunction(fil
 %  array of positive scalar integers for dis-contiguous row intervals.
 %
 %  Example:
-%  [base_x, base_y, base_z, wobj_x, wobj_y, wobj_z] = importfile("C:\OneDriveUCO\OneDrive - Universidad de Córdoba\02 Plantilla_2020_2021\Investigación\Artículos\2_RFID_Fardos\2_Código\1_CódigoABB\experimentos\prmario_COMPLETO_250_TAG32.txt", [2, Inf]);
+%  [base_x, base_y, base_z, wobj_x, wobj_y, wobj_z] = importfile("C:\Folder\file.txt", [2, Inf]); % File containing dataset
 %
 %  See also READTABLE.
 %
