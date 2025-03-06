@@ -8,6 +8,6 @@ The information contained in the folders is as follows:
 - **/AntennaInductanceEstimation** contains the MATLAB scripts for the estimation of number of turns to meet 27 uH.
 - **/RoboticTesting** contains the datasets from experiments carried out with the robotic experimental approach.
 
-Contact the author for more information <mario.ruz@uco.es>
+Contact the author for more information <mario.ruz.at.uco.es>
 
 
